@@ -1,0 +1,14 @@
+---
+title: Videos
+permalink: /Videos/
+---
+
+### PhD Defense 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAiUn_QFTJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Aerial Silks
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/at9w5one3s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[jekyll-organization]: https://github.com/jekyll
