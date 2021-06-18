@@ -12,10 +12,10 @@ Sztain, T., Ahn, S-H., Bogetti, A.T., Casalino, L, Goldsmith, J.A., McCool, R.S.
 
 <img src="/assets/images/protease.png" width="600">
 
-Sztain, T., Amaro, R., McCammon, JA., [Elucidation of cryptic and allosteric pockets within the SARS-CoV-2 protease.](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00140) <i> JCIM </i>(In Press <b> 2021 </b>).
+Sztain, T., Amaro, R., McCammon, JA., [Elucidation of cryptic and allosteric pockets within the SARS-CoV-2 protease.](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00140) <i> JCIM </i>(<b> 2021 </b>).
 
 <img src="/assets/images/allostery.png" width="900">
 
-Sztain, T., Bartholow, T.G., Lee, D.J., Casalino, L., Mitchell, A., Young, M., Wang, J., McCammon J.A., Burkart, M.D. [Decoding the allosteric nature of acyl carrier proteins.](https://www.pnas.org/content/118/16/e2025597118)<i> PNAS.</i> 118, (<b> 2021 </b>).
+Sztain, T., Bartholow, T.G., Lee, D.J., Casalino, L., Mitchell, A., Young, M., Wang, J., McCammon J.A., Burkart, M.D. [Decoding the allosteric nature of acyl carrier proteins.](https://www.pnas.org/content/118/16/e2025597118)<i> PNAS.</i> (<b> 2021 </b>).
 
 [jekyll-organization]: https://github.com/jekyll
