@@ -8,7 +8,7 @@ For complete list, visit [Google Scholar](https://scholar.google.com/citations?u
 
 <img src="/assets/images/spike.gif" width="500">
 
-Sztain, T., Ahn, S-H., Bogetti, A.T., Casalino, L, Goldsmith, J.A., McCool, R.S., Kearns, F.L., McCammon, J.A., McLellan, J.S., Chong,  L.T., Amaro R.E., [A glycan gate controls opening of the SARS-CoV-2 spike protein.](https://www.biorxiv.org/content/10.1101/2021.02.15.431212v2.full) <i> Nature Chemistry </i> (In Review <b> 2021 </b>)
+Sztain, T., Ahn, S-H., Bogetti, A.T., Casalino, L, Goldsmith, J.A., McCool, R.S., Kearns, F.L., McCammon, J.A., McLellan, J.S., Chong,  L.T., Amaro R.E., [A glycan gate controls opening of the SARS-CoV-2 spike protein.](https://www.biorxiv.org/content/10.1101/2021.02.15.431212v2.full) <i> Nature Chemistry </i> (In Press <b> 2021 </b>)
 
 <img src="/assets/images/protease.png" width="600">
 
