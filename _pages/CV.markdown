@@ -4,12 +4,11 @@ classes: wide
 permalink: /CV/
 ---
 
-[Full PDF](CV_2021.pdf)
-
+[Full PDF](Terra_Sztain_CV_2021.pdf)
 
 ### EDUCATION
 <div style="text-align:left;font-size:0.9em;">
-   <b> Ph.D. Biochemistry and Biophysics </b>
+   <b> Ph.D. Chemistry </b>
    <span style="float:right;font-size:0.9em;">
        2016 - 2021
    </span>
