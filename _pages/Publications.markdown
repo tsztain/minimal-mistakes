@@ -4,7 +4,7 @@ classes: wide
 permalink: /Publications/
 ---
 
-For complete list, visit [Google Scholar](https://scholar.google.com/citations?user=86MMLgIAAAAJ&hl=en)
+Recent publications. For complete list, visit [Google Scholar](https://scholar.google.com/citations?user=86MMLgIAAAAJ&hl=en)
 
 <img src="/assets/images/spike.gif" width="500">
 
