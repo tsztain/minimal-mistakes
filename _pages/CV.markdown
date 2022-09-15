@@ -4,7 +4,7 @@ classes: wide
 permalink: /CV/
 ---
 
-[Full PDF](Terra_Sztain_CV_2021.pdf)
+[Full PDF](CV_Terra_Sztain.pdf)
 
 ### EDUCATION
 <div style="text-align:left;font-size:0.9em;">
