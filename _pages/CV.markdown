@@ -4,7 +4,7 @@ classes: wide
 permalink: /CV/
 ---
 
-[Full PDF](CV_Terra_Sztain.pdf)
+[Full PDF]("../files/CV_Terra_Sztain.pdf")
 
 ### EDUCATION
 <div style="text-align:left;font-size:0.9em;">
