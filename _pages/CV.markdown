@@ -48,7 +48,7 @@ University of California, San Diego
 <br>
 Advisor: Michael D. Burkart, PhD; J. Andrew McCammon, PhD
 <br>
-<div style=“width:80%;”> * Studied protein communication mechanisms - structural modifications, protein-protein
+<div style=“width:500px;”> * Studied protein communication mechanisms - structural modifications, protein-protein
 interactions, and conformational changes using nuclear magnetic resonance spectroscopy
 and molecular dynamics simulations. </div>
 
